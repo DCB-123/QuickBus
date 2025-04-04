@@ -1,6 +1,6 @@
-# Bus Reservation System – Full Stack Application
+# QuickBusReserve – Full Stack Application
 
-A full-stack **Bus Reservation System** developed using "React" for the frontend and **Spring Boot** for the backend. This system provides secure and efficient functionality for booking bus tickets, managing routes, and user access through role-based authentication.
+A full-stack "Bus Reservation System" developed using "React" for the frontend and **Spring Boot** for the backend. This system provides secure and efficient functionality for booking bus tickets, managing routes, and user access through role-based authentication.
 
 ---
 
@@ -133,22 +133,6 @@ mvn test
 ```bash
 npm test
 ```
-
----
-
-## 👤 Author
-**Deepak**  
-Email: your.email@example.com  
-GitHub: [github.com/your-username](https://github.com/your-username)  
-LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
----
-
-## 📊 Screenshots (Optional)
-_Add screenshots or demo GIFs of the system in action._
-
----
-
 ## 📝 License
 This project is licensed under the MIT License.
 
